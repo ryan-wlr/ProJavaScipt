@@ -1,3 +1,3 @@
 # ProJavaScipt2
 
-This is just a collection of JavaScript files. 
+This is a game in progress called tetris. 
